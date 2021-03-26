@@ -23,7 +23,7 @@ GIVEN a webpage meets accessibility standards WHEN I view the source code THEN I
 Angelica Sargent
 
 # Screenshot
-![Screenshot]
+![Screenshot](./assets/image/Screenshot1.png)
 
 # Links
 Take a look at this [link].
