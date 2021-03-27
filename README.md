@@ -23,7 +23,7 @@ GIVEN a webpage meets accessibility standards WHEN I view the source code THEN I
 Angelica Sargent
 
 # Screenshot
-![Screenshot](/assets/images/Screenshot1.png)
+![Screenshot](./assets/Screenshot1.png)
 
 # Links
 Take a look at this [link](https://agraysargent.github.io/CodingRefractorHW1/)
